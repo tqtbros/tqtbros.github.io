@@ -1,8 +1,8 @@
-Origin: MinhTon's repo
-Label: MinhTon's repo
+Origin: TQT Bros Jailbreak
+Label: TQT Bros Jailbreak
 Suite: stable
 Version: 1.0
-Codename: minhtonrepo
+Codename: tqtbros
 Architectures: iphoneos-arm
 Components: main
-Description: MinhTon's Jailbreak Repository
+Description: TQT Bros Jailbreak Repository
