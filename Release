@@ -1,0 +1,8 @@
+Origin: MinhTon's repo
+Label: MinhTon's repo
+Suite: stable
+Version: 1.0
+Codename: minhtonrepo
+Architectures: iphoneos-arm
+Components: main
+Description: MinhTon's Jailbreak Repository
