@@ -1,0 +1,18 @@
+Package: me.minhton.nineunlock
+Version: 1.0.2
+Architecture: iphoneos-arm
+Installed-Size: 872
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0), org.thebigboss.libcolorpicker, ws.hbang.common
+Filename: ./debs/me.minhton.nineunlock_1.0.2_iphoneos-arm.deb
+Size: 500360
+MD5sum: 7f1c2e83031de8933fd9938b735bb967
+SHA1: 36c3a5d193f60f6783d6f3fab5f51504660cee64
+SHA256: 1a379a2f3e7a10bd38b81bb23def1c3ebc9965a12d6dde46b811071447b62dcd
+Section: Tweaks
+Homepage: https://minh-ton.github.io
+Description: Bring back the iOS 9 style "Slide To Unlock" to iOS 13!
+Author: MinhTon <ford.tonthat@gmail.com>
+Depiction: https://minh-ton.github.io/repo/depictions/?p=me.minhton.nineunlock
+Icon: https://tqtbros.github.io/icons/NineUnlock/Icon.png
+Name: NineUnlock
+
